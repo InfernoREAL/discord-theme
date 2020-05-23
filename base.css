@@ -674,7 +674,7 @@ TABLE OF CONTENTS
 /*1.h. Unsupported Settings*/
 
 html.theme-light #app-mount::after {
-	content:'Light theme is not supported on Midnight. Please deactivate it through settings.';
+	content:'Light theme is not supported on Okuchis Theme. Please deactivate it through settings.';
 	background:var(--lv1);
 	position:fixed;
 	z-index:999999;
