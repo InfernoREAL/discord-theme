@@ -1,9 +1,9 @@
 /**
- * @name Midnight UI
+ * @name OKuchi UI
  * @author OKuchi
- * @version Auto
+ * @version 1.0.9.0
  * @description A dark, flat and modern user interface for DiscordApp.
- * @source https://github.com/tropix126/betterDiscordStuff/blob/master/midnight/css/base.css
+ * @source https://infernoreal.github.io/discord-theme/base.css
  * @website https://SILVERHORSE.ML
  * @invite TeRQEPb 
  * @authorId 254362351170617345
@@ -24,7 +24,7 @@
 
 /Import Base CSS File*/
 
-@import url('https://raw.githubusercontent.com/InfernoREAL/discord-theme/master/base.css?token=AKTEN6LZUBX5NNB67Z6XAH26ZGGGS');
+@import url('https://infernoreal.github.io/discord-theme/base.css');
 
 /*Root*/
 
