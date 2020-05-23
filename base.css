@@ -705,7 +705,7 @@ html.full-motion.theme-light #app-mount::after {
 }
 
 body.bd-minimal #app-mount::before {
-	content:'Minimal Mode is not supported on Midnight. Please deactivate it through BandagedBD settings.';
+	content:'Minimal Mode is not supported on Okuchis Theme. Please deactivate it through BandagedBD settings.';
 	background:var(--lv1);
 	position:fixed;
 	z-index:999999;
@@ -779,7 +779,7 @@ html.theme-light body.bd-minimal #app-mount::before {
 
 .preview-2nSL_2 .compact-T3H92H:last-of-type::after,
 .messagesWrapper-3lZDfY .compact-T3H92H:last-of-type::after {
-	content:'Compact Mode is not supported on Midnight. Please deactivate it through settings.';
+	content:'Compact Mode is not supported on Okuchis Theme. Please deactivate it through settings.';
 	line-height:normal;
 	color: rgba(255, 255, 255, .65);
 	font-size: var(--size1);
