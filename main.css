@@ -16,6 +16,8 @@
     --background-mentioned: #cc4b143d;
     --background-mentioned-hover: #cc4b1450;
     --username: "Village"; /*For wordmark top left. */
+    --username-font: "Arial";
+    --username-font-size: 18px; 
     --username-color: rgb(255, 100, 73); /* For colored word mark top left and @mentions in chat*/
 }
 
