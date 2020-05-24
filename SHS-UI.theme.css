@@ -1,32 +1,8 @@
-//META{"name":"SHS-UI","description":"Made by Okuchi","author":"Okuchi","version":"Auto Update"}*//
-@import url("https://infernoreal.github.io/discord-theme/scsl.css");
-@import url("https://infernoreal.github.io/discord-theme/user-tags.css");
-@import url("https://infernoreal.github.io/discord-theme/badges.css");
-@import url('https://infernoreal.github.io/discord-theme/base.css');
-:root {
---background-image: url('https://i.imgur.com/gQp3VSW.jpg');
---friends-icon: url('https://i.imgur.com/63g6Em8.jpg');
---friends-icon-position: center center;
---friends-icon-zoom: 100%;
---unread-server-animation: rainbow;
---main-color: rgb(67, 181, 129);
---main-transparency: rgba(0,0,0,0.7);
---hover-list-bg-color: rgba(255,255,255,0.9);
---scroll-bar-color: rgba(255,255,255,0.35);
---font-size: 16px;
---selected-text-voice-color: rgba(246,246,247,0.45);
---channel-hover-text-color: rgba(255,255,255,0.3);
---unread-text-color: rgba(220,221,222,0.9);
---user-popup-background: rgba(0,0,0,0.5);
-
---rs-small-spacing: 0px;
---rs-large-spacing: 3px;
---rs-width: 1px;
---rs-avatar-shape: 50%;
---rs-online-color: #43b581;
---rs-idle-color: #faa61a;
---rs-dnd-color: #ff0000;
---rs-streaming-color: #000080;
---rs-offline-color: #636b75;
---rs-invisible-color: #747f8d;
-}
+/**
+ * @name SHS Theme
+ * @author SHS Dev Team
+ * @version 1.0.1
+ * @description 
+ * @website https://liquify.ml
+*/
+@import url("https://infernoreal.github.io/discord-theme/main.css")
